@@ -1,0 +1,20 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "twitter",
+    "facebook",
+    "pinterest"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "ページ情報"
+    },
+    {
+      "type": "textbox",
+      "text": [
+        "Makkii | Portfolio"
+      ]
+    }
+  ]
+}
